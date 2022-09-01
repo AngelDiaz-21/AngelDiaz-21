@@ -1,6 +1,6 @@
 ### Hola.👋
 
-Mi nombre es Angel Alberto Díaz Cortés, soy estudiante del Instituto Tecnológico de Acapulco. Estoy dando mis pasos en el desarrollo web en donde he realizado proyectos utilizando los lenguajes de programación como PHP, JavaScript así como las tecnologías HTML, CSS, Bootstrap, Node y frameworks como Vue, Laravel y Express.
+Mi nombre es Angel Alberto Díaz Cortés, soy estudiante del Instituto Tecnológico de Acapulco. Estoy dando mis pasos en el desarrollo web en donde he realizado proyectos utilizando los lenguajes de programación como PHP, JavaScript así como las tecnologías HTML, CSS, Bootstrap, Node y frameworks como Laravel y Express.
 
 He estado en el Bootcamp de Launch X por parte de Innovaccion Virtual de Microsoft y actualmente en BEDU Desarrollo Web JavaScript por parte de Becas Santander Tecnología.
 
